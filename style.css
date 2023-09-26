@@ -1,0 +1,10 @@
+html {
+  line-height: 1.15;
+  text-size-adjust: 100%;
+}
+:root {
+  view-transition-name: root;
+}
+html {
+  display: block;
+}
